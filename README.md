@@ -26,10 +26,6 @@ In this project, I solved 15 SQL problems using **Snowflake** as the cloud platf
 - Questions and datasets provided by the **Techtfq Masterclass**, which I followed to practice and improve my SQL skills.
 - All solutions were solved independently by me.
 
-## 📂 Project Files:
-- `Question1.sql`: Query to solve problem 1
-- `Question2.sql`: Query to solve problem 2
-- … (and so on)
 
 ## 🎓 Learnings:
 - Gained practical experience in solving analytical SQL queries on a cloud database.
